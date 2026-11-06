@@ -1,0 +1,8 @@
+{
+    "Appsettings": {
+        "environment": "Development",
+        "greeting": "Welcome!",
+        "password": "SSSSSS",
+        "maxNumber": 100
+    }
+}
